@@ -1,0 +1,30 @@
+@font-face { font-family: Playball; src: url('../font/Playball.ttf'); }
+
+
+ b, strong {
+ 	color: #fcfefd;
+ 	font-family: Playball;
+ 	font-size: 40px;
+ }
+
+ button {
+ 	background-color: #1C263D;
+ 	color: #fcfefd;
+ }
+
+ label {
+ 	color: #fcfefd;
+ 	
+ }
+
+ p {
+ 	color: #fcfefd;
+
+ }
+
+ button, div, form, input {
+  margin: 10px;
+ }
+ 
+
+    
